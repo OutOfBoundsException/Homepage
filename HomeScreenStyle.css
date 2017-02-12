@@ -1,0 +1,113 @@
+body{
+	background-image: url(http://www.walldevil.com/wallpapers/a84/forest-fog-tree-light.jpg);
+}
+
+#Page {
+	max-width: 1000px;
+	min-width: 490px;
+	margin: auto; 
+	font-family: Arial, Helvetica, sans-serif; 
+	box-shadow: 10px 10px 10px grey;
+	background: rgba(255, 255, 255, 0.4); 
+	}
+	
+a {
+	text-decoration: none; 
+	color: black; 
+}
+	
+a:visited {
+	color: black; 
+}
+
+div.NavButton{
+	border-style: solid; 
+	border-bottom-color: black; 
+	width: 450px; 
+	height: 300px;
+	margin: 20px; 
+	display: inline-block; 
+	position: relative; 
+	box-shadow: 10px 10px 10px grey;
+	background-size: 450px 300px;
+	background-repeat: no-repeat;
+	background-position: center; 
+}
+
+div.NavButton:hover {
+	box-shadow: 15px 15px 15px grey;
+}
+
+div.WebName:hover {
+	background: rgba(200, 200, 200, 0.8); 
+}
+
+div.WebName p:hover{
+	opacity: 1; 
+}
+
+div.WebName{
+	margin: 0px;
+	height: 80px;
+	position: relative; 
+	top: 200px;
+	background: rgba(128, 128, 128, 0.3); 
+}
+
+div.WebName p {
+	opacity: 0.5;
+}
+
+.WebsiteName {
+	margin-top: 20px; 
+	margin-bottom: 0px; 
+	font-weight: bold; 
+	font-size: 20pt; 
+	background: rgba(135, 135, 135, 0.3); 
+}
+
+.FullURL {
+	margin-bottom: 5px; 
+	margin-top: 3px;
+	font-size: 10pt; 
+	text-decoration: underline; 
+	
+}
+div.NavButton p {
+	text-align: center; 
+	width: 450px;
+}
+
+#Clock {
+	position: fixed; 
+	right: 2% 
+}
+#Block1{
+	background-image: url(http://logok.org/wp-content/uploads/2015/09/Google-logo-2015-G-icon.png);
+	}
+#Block2{
+	background-image: url(https://www.youtube.com/yt/brand/media/image/YouTube-logo-full_color.png);
+	}
+#Block3{
+	background-image: url(http://www.userlogos.org/files/logos/lepht/reddit_alien.png);
+	background-size: 420px 300px;
+	}
+#Block4{
+	background-image: url(http://howtofilmschool.com/wp-content/uploads/2015/08/1436268496494.png);
+	}
+#Block5{
+	background-image: url(http://www.humber.ca/onlinelearning/images/blackboard_logo.png);
+	}
+#Block6{
+	background-image: url(http://www.catholicinfertilityjourney.com/wp-content/uploads/2016/04/facebook-logo.png);
+	background-size: 450px 250px;
+}
+#Block7{
+	background-image: url(https://lh3.ggpht.com/hbchtqUXfi5liWHs7cWAPSnc_p7r1VHcdczyvu81STO2i_JIXS1Gj-Z-Rpp0OIGm2g=w300);
+	background-size: 300px 300px;
+	}
+#Block8{
+	background-image: url(http://www.lloydsbankinggroup.com/globalassets/images/logos/brand-carousel/lloyds.png);
+	background-size: 600px 350px;
+	}
+
